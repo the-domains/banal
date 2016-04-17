@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[banal]]></title>
         <description><![CDATA[banal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/banal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:09:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 17:15:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/banal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed781b59-3d1e-4c02-b200-fa4833a5edb1.png">]]></description>
+            <link>https://thegrid.ai/banal/c5293563-c637-4eec-b6df-ddf366777587/index.html</link>
+            <guid isPermaLink="false">c5293563-c637-4eec-b6df-ddf366777587</guid>
+            <pubDate>Sun, 17 Apr 2016 17:15:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[☕️☕️]]></title>
             <description><![CDATA[<article><h1>☕️☕️</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b21e7c6888ce22187bd784a6951863089be0455b.png"></article>]]></description>
-            <link>undefinedhot-beveragehot-beverage/index.html</link>
+            <link>https://thegrid.ai/banal/hot-beveragehot-beverage/index.html</link>
             <guid isPermaLink="false">05cf8ced-1b37-4853-8ef4-5ae132602717</guid>
             <pubDate>Sun, 17 Apr 2016 17:09:41 GMT</pubDate>
         </item>
