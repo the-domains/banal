@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3870968
+  lightness: 0.6433692
+  brandStrength: 0.8100358
+  brandColors:
+    - '#E2E6EA'
+    - '#0E161E'
+    - '#9B8F92'
+    - '#2F6D9B'
+    - '#D88039'
+  rhythmicContrast: 0.1702509
+typography_spectrum: 0.109319
+name: banal
